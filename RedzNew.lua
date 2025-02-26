@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("script stopped working forever, deleted on github in 1 day")
+game.Players.LocalPlayer:Kick("script stopped working forever, will be deleted tomorrow")
